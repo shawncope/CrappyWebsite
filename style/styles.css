@@ -1,0 +1,109 @@
+/*  about.html  */
+
+.about {
+  margin: 0;
+  background: url('../images/bgCrazy.gif') repeat 0 55px #363636;
+  text-align:center;
+}
+
+.about a:hover{
+  background-color: blue;
+}
+
+.intro{
+  color:#ff0000;
+}
+
+.intro:hover{
+  background-color:black;
+  color:#ff0000;
+}
+
+.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8,.p9,.p10,.p11,.p12,.p13,.p14,.p15,.p16{
+  display:block;
+  font-weight:bold;
+  color: #00ff00;
+}
+
+.p1:hover,.p2:hover,.p3:hover,.p4:hover,.p5:hover,.p6:hover,.p7:hover,
+.p8:hover,.p9:hover,.p10:hover,.p11:hover,.p12:hover,.p13:hover,.p14:hover,
+.p15:hover,.p16:hover{
+  background-color:red;
+}
+
+.p1,.title1{
+  font-size:20pt;
+}
+
+.p2,.title2{
+  font-size:50pt;
+}
+
+.p3,.title3{
+  font-size:80pt;
+}
+
+.p4,.title4{
+  font-size:110pt;
+}
+
+.p5,.title5{
+  font-size:140pt;
+}
+
+.p6,.title6{
+  font-size:170pt;
+}
+
+.p7,.title7{
+  font-size:200pt;
+}
+
+.p8,.title8{
+  font-size:230pt;
+}
+
+.p9,.title9{
+  font-size:260pt;
+}
+
+.p10,.title10{
+  font-size:290pt;
+}
+
+.p11,.title11{
+  font-size:320pt;
+}
+
+.p12,.title12{
+  font-size:350pt;
+}
+
+.p13,.title13{
+  font-size:380pt;
+}
+
+.p14,.title14{
+  font-size:410pt;
+}
+
+.p15,.title15{
+  font-size:440pt;
+}
+
+.p16,.title16{
+  font-size:470pt;
+}
+
+.title1,.title2,.title3,.title4,.title5,.title6,.title7,.title8,.title9,
+.title10,.title11,.title12,.title13,.title14,.title15,.title16{
+  display:block;
+  color: #00ffff;
+}
+
+.title1:hover,.title2:hover,.title3:hover,.title4:hover,.title5:hover,
+.title6:hover,.title7:hover,.title8:hover,.title9:hover,.title10:hover,
+.title11:hover,.title12:hover,.title13:hover,.title14:hover,.title15:hover,
+.title16:hover{
+  background-color:yellow;
+}
